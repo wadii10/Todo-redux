@@ -1,0 +1,9 @@
+.oneTask {
+    height: 50px;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    margin: 6px 4px;
+}
